@@ -136,19 +136,39 @@ nav li a:hover{
 	width: 50%;
 	margin: auto;
 	padding: 10px;
+	height: 250px;
+}
+
+#contact-image{
+	float: right;
+	width: 300px;
 }
 
 #donation-form {
 	padding: 10px;
 }
+
 #no-page-section {
 	width: 50%;
 	margin: auto;
 	padding: 10px;
 }
 
+#contact-image-caption{
+	float: right;
+	font-size: 11px;
+}
+
 .contact-page-bold {
 	font-weight: bold;
+}
+
+#footer {
+	margin-left: 40%;
+}
+
+#contact-list{
+	list-style-type: none;
 }
 
 
