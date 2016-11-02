@@ -136,6 +136,12 @@ nav li a:hover{
 	width: 50%;
 	margin: auto;
 	padding: 10px;
+}
+
+#contact-section{
+	width: 50%;
+	margin: auto;
+	padding: 10px;
 	height: 250px;
 }
 
