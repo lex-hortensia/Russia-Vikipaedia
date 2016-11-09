@@ -130,6 +130,7 @@ nav li a:hover{
 	width: 50%;
 	margin: auto;
 	padding: 10px;
+	height: 325px;
 }
 
 #help-section{
@@ -177,5 +178,39 @@ nav li a:hover{
 	list-style-type: none;
 }
 
+#about-page-image{
+	padding-left: 10px;
+	padding-bottom: 0px;
+
+	float: right;
+	width: 150px;
+}
+#about-image-caption{
+	padding-top: 0px;
+	float: right;
+	font-size: 11px;
+	text-align: center;
+}
+
+#statistics{
+	float: left;
+	margin-left: 5%;
+	text-align: center;
+}
+
+table, tr, td, th{
+	border: 1px solid black;
+	margin: auto;
+}
+
+#stat-chart{
+	text-align: center;
+	margin-bottom: 10px
+}
+
+#us-chart{
+	text-align: left;
+	margin-bottom: 10px
+}
 
 
